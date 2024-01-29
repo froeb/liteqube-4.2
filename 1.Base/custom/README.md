@@ -6,9 +6,10 @@ This folder can be used to customise Liteqube installation.
 Aboove is the comment from the original author. Here are m (KF) additional findings so far:
 
 This seems to allow to put additional files in the root directory (debian-core/root) of the vm/qube
-and in the home directory of the vm/wube (dom0/home/user).
+and in the home directory of the vm/wube (dom0/home/user). Both directories contain only a TEST_FILE each.
+I am tending to rename them to TEST_FILE_HOME and TEST_FILE_ROOT at a later stage.
 
-The file custom.sh seems to be teh most important file in this directory,
+The file custom.sh seems to be the most important file in this directory,
 and it seems to be run at the creatiomn of the vm/qube.
 
 It is unclear to me though at the moment where this is stored and how you adopt it for the various VM/Qubes to be created.
