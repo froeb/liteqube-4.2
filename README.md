@@ -14,11 +14,12 @@ I also plan to add more documentation to the project by adding my insights durin
 Please note that while I make this fork public available, this is not ready for usage.
 However, cooperation requests are welcome.
 
-I would also contact directly the initial project creator, a-abrinov, however, I have not yet discoverd a way to contact him.
-If you read this and you are a-barinov, please feel free to contadct me, may be we could work together.
+I would like to also contact directly the initial project creator, a-abrinov, however, I have not yet discoverd a way to contact him.
+If you read this and you are a-barinov, please feel free to contact me, may be we could work together.
 
 Sao Martinho do Porto, 2024-01-29
 Kai Froeb
+https://kai.froeb.net
 
 ## Liteqube puts Qubes OS on a diet
 
