@@ -16,7 +16,7 @@ VM_GROUP="qubes_dom0-vm"
 # VM NAMES & COLORS #
 #####################
 
-VM_BASE="debian-11-minimal"
+VM_BASE="debian-12-minimal"
 VM_CORE="debian-core"
 VM_DVM="core-dvm"
 VM_XORG="core-xorg"
