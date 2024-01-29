@@ -1,5 +1,26 @@
+# Liteqube 4.2
 
-# Liteqube puts Qubes OS on a diet
+In this project, I will explore Liteqube and try to adapt it to Qubes 4.2 and Debian 12.
+
+In a first attempt, I will review all source code and 
+- change any reference to old Debian versions to Debian 12 / bookworm and 
+- change any reference to Qubes 4.1 into Qubes 4.1
+
+At this stage, I will NOT change any API calls etc, so the resut will probably not run.
+API calls etc are handled in the second stage.
+
+I also plan to add more documentation to the project by adding my insights during working thru the code.
+
+Please note that while I make this fork public available, this is not ready for usage.
+However, cooperation requests are welcome.
+
+I would also contact directly the initial project creator, a-abrinov, however, I have not yet discoverd a way to contact him.
+If you read this and you are a-barinov, please feel free to contadct me, may be we could work together.
+
+Sao Martinho do Porto, 2024-01-29
+Kai Froeb
+
+## Liteqube puts Qubes OS on a diet
 
 Liteqube was created in 2017 to run Qubes on a rather low-spec GPD Win 2 (Core m3-7Y30, 8Mb RAM). Taking 2Gb of RAM to run dom0 and fully torified set of services, it allowed me to use a device with 8MB of RAM quite comfortably.
 
